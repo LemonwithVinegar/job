@@ -1,1 +1,232 @@
-[]
+[
+  {
+    "id": 1785824597450,
+    "company": "元戎",
+    "status": "简历筛选",
+    "companyType": "",
+    "applyDate": "2026-08-04",
+    "position": "软件工程师",
+    "location": "",
+    "progress": ""
+  },
+  {
+    "id": 1785823885208,
+    "company": "大疆车载",
+    "status": "简历筛选",
+    "companyType": "",
+    "applyDate": "2026-08-04",
+    "position": "嵌入式软件工程师",
+    "location": "",
+    "progress": ""
+  },
+  {
+    "id": 1785823255288,
+    "company": "大疆车载",
+    "status": "简历筛选",
+    "companyType": "",
+    "applyDate": "2026-08-04",
+    "position": "规控工程师",
+    "location": "",
+    "progress": ""
+  },
+  {
+    "id": 1785814099443,
+    "company": "京东",
+    "status": "简历筛选",
+    "companyType": "",
+    "applyDate": "2026-08-04",
+    "position": "测开",
+    "location": "",
+    "progress": ""
+  },
+  {
+    "id": 1784863424100,
+    "company": "禾赛科技",
+    "status": "已结束",
+    "companyType": "私企",
+    "applyDate": "2026-07-24",
+    "position": "软件测试开发工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784863403258,
+    "company": "禾赛科技",
+    "status": "已结束",
+    "companyType": "私企",
+    "applyDate": "2026-07-24",
+    "position": "智能制造软件测试开发工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784863369863,
+    "company": "禾赛科技",
+    "status": "已结束",
+    "companyType": "私企",
+    "applyDate": "2026-07-24",
+    "position": "测试开发工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784793674497,
+    "company": "虹软科技",
+    "status": "已结束",
+    "companyType": "私企",
+    "applyDate": "2026-07-23",
+    "position": "智能驾驶规控算法工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784793640124,
+    "company": "虹软科技",
+    "status": "已结束",
+    "companyType": "私企",
+    "applyDate": "2026-07-23",
+    "position": "具身智能（机器人）自主导航算法工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784792576071,
+    "company": "中国兵工集团",
+    "status": "简历筛选",
+    "companyType": "国企",
+    "applyDate": "2026-07-23",
+    "position": "无人车行为决策岗",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784792548687,
+    "company": "中国兵工集团",
+    "status": "简历筛选",
+    "companyType": "国企",
+    "applyDate": "2026-07-23",
+    "position": "有人/无人协同综合试验测试技术",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784790300911,
+    "company": "航天502所",
+    "status": "简历筛选",
+    "companyType": "研究院",
+    "applyDate": "2026-07-23",
+    "position": "软件测试",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784777024266,
+    "company": "卡尔动力",
+    "status": "简历筛选",
+    "companyType": "车企",
+    "applyDate": "2026-07-23",
+    "position": "自动驾驶系统研发工程师(系统集成/中间件)",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784776992871,
+    "company": "卡尔动力",
+    "status": "简历筛选",
+    "companyType": "车企",
+    "applyDate": "2026-07-23",
+    "position": "自动驾驶系统测试开发工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784776962157,
+    "company": "卡尔动力",
+    "status": "简历筛选",
+    "companyType": "车企",
+    "applyDate": "2026-07-23",
+    "position": "自动驾驶算法测试开发工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784776922876,
+    "company": "卡尔动力",
+    "status": "简历筛选",
+    "companyType": "私企",
+    "applyDate": "2026-07-23",
+    "position": "嵌入式软件开发工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784704633686,
+    "company": "速腾",
+    "status": "已结束",
+    "companyType": "私企",
+    "applyDate": "2026-07-21",
+    "position": "软件测试工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784704574014,
+    "company": "蔚来汽车",
+    "status": "已结束",
+    "companyType": "车企",
+    "applyDate": "2026-07-19",
+    "position": "提前批-面向AI智能评测开发工程师——嵌入式软件方向",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784704547502,
+    "company": "蔚来汽车",
+    "status": "已结束",
+    "companyType": "车企",
+    "applyDate": "2026-07-19",
+    "position": "软件测试工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784704482731,
+    "company": "蔚来汽车",
+    "status": "已结束",
+    "companyType": "车企",
+    "applyDate": "2026-07-19",
+    "position": "提前批-实车低速工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784704405549,
+    "company": "智元机器人",
+    "status": "已结束",
+    "companyType": "私企",
+    "applyDate": "2026-07-22",
+    "position": "优才-规控算法工程师-通用业务部",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784704363174,
+    "company": "拓竹科技",
+    "status": "简历筛选",
+    "companyType": "私企",
+    "applyDate": "2026-07-22",
+    "position": "生产软件开发工程师",
+    "location": "",
+    "progress": "投递"
+  },
+  {
+    "id": 1784704318524,
+    "company": "拓竹科技",
+    "status": "简历筛选",
+    "companyType": "私企",
+    "applyDate": "2026-07-22",
+    "position": "嵌入式软件工程师（上海）",
+    "location": "",
+    "progress": "投递"
+  }
+]
